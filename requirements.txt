@@ -2,4 +2,4 @@ torch
 torchvision
 transformers
 pillow
-streamlit
+huggingface_hub
