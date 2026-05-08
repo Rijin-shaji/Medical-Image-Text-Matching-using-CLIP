@@ -1,4 +1,4 @@
-## Medical Image-Text Matching using CLIP
+# Medical Image-Text Matching using CLIP
 
 ## Overview
 This project demonstrates a Vision-Language Model (VLM) using CLIP to match medical images with the most relevant textual descriptions. The system encodes both images and text into a shared embedding space and retrieves the best match using similarity scores.
